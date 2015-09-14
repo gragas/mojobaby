@@ -1,2 +1,1 @@
-# mojobaby
-That's my mojo, baby, yeah!
+![Yeah, baby! Yeah!](austin.jpg)
